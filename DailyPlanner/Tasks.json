@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "dateStart": 1733068800,
+        "dateFinish": 1733072400,
+        "name": "dentist",
+        "description": "Go to the dentist for a regular check-up and cleaning."
+    },
+    {
+        "id": 2,
+        "dateStart": 1733072400,
+        "dateFinish": 1733076000,
+        "name": "meeting",
+        "description": "Meeting with the team to discuss the project progress and next steps."
+    },
+    {
+        "id": 3,
+        "dateStart": 1733076000,
+        "dateFinish": 1733079600,
+        "name": "grocery shopping",
+        "description": "Go grocery shopping to stock up on essentials for the week."
+    },
+    {
+        "id": 4,
+        "dateStart": 1733155200,
+        "dateFinish": 1733158800,
+        "name": "gym",
+        "description": "Gym session to work on strength training and cardio exercises."
+    },
+    {
+        "id": 5,
+        "dateStart": 1733158800,
+        "dateFinish": 1733162400,
+        "name": "doctor appointment",
+        "description": "Visit the doctor for a routine health check-up and consultation."
+    },
+    {
+        "id": 6,
+        "dateStart": 1733162400,
+        "dateFinish": 1733166000,
+        "name": "project deadline",
+        "description": "Submit the project before the deadline to ensure timely completion."
+    },
+    {
+        "id": 7,
+        "dateStart": 1733241600,
+        "dateFinish": 1733245200,
+        "name": "family dinner",
+        "description": "Dinner with family to celebrate a special occasion and spend quality time together."
+    },
+    {
+        "id": 8,
+        "dateStart": 1733245200,
+        "dateFinish": 1733248800,
+        "name": "car maintenance",
+        "description": "Car maintenance to ensure the vehicle is in good condition and safe to drive."
+    },
+    {
+        "id": 9,
+        "dateStart": 1733248800,
+        "dateFinish": 1733252400,
+        "name": "book club",
+        "description": "Book club meeting to discuss the latest book and share insights with fellow readers."
+    },
+    {
+        "id": 10,
+        "dateStart": 1733328000,
+        "dateFinish": 1733331600,
+        "name": "movie night",
+        "description": "Movie night with friends to watch a new release and enjoy some snacks."
+    },
+    {
+        "id": 11,
+        "dateStart": 1733331600,
+        "dateFinish": 1733335200,
+        "name": "yoga class",
+        "description": "Yoga class to improve flexibility, strength, and mental well-being."
+    },
+    {
+        "id": 12,
+        "dateStart": 1733335200,
+        "dateFinish": 1733338800,
+        "name": "birthday party",
+        "description": "Friend's birthday party with cake, games, and lots of fun."
+    },
+    {
+        "id": 13,
+        "dateStart": 1733414400,
+        "dateFinish": 1733418000,
+        "name": "concert",
+        "description": "Go to a concert to enjoy live music and support your favorite band."
+    },
+    {
+        "id": 14,
+        "dateStart": 1733418000,
+        "dateFinish": 1733421600,
+        "name": "art exhibition",
+        "description": "Visit an art exhibition to appreciate and explore various artworks."
+    },
+    {
+        "id": 15,
+        "dateStart": 1733421600,
+        "dateFinish": 1733425200,
+        "name": "hiking",
+        "description": "Go hiking to enjoy nature, fresh air, and beautiful landscapes."
+    },
+    {
+        "id": 16,
+        "dateStart": 1733500800,
+        "dateFinish": 1733504400,
+        "name": "cooking class",
+        "description": "Cooking class to learn new recipes and improve culinary skills."
+    },
+    {
+        "id": 17,
+        "dateStart": 1733504400,
+        "dateFinish": 1733508000,
+        "name": "volunteer work",
+        "description": "Volunteer work to contribute to the community and make a positive impact."
+    },
+    {
+        "id": 18,
+        "dateStart": 1733508000,
+        "dateFinish": 1733511600,
+        "name": "language lesson",
+        "description": "Language lesson to practice speaking, listening, and grammar skills."
+    },
+    {
+        "id": 19,
+        "dateStart": 1733587200,
+        "dateFinish": 1733590800,
+        "name": "photography session",
+        "description": "Photography session to capture memorable moments and improve photography skills."
+    },
+    {
+        "id": 20,
+        "dateStart": 1733590800,
+        "dateFinish": 1733594400,
+        "name": "theater play",
+        "description": "Go to the theater to watch a live performance and enjoy the arts."
+    }
+]
+
